@@ -1,5 +1,2 @@
 discord==1.0.1
 asyncio
-pymoe
-youtubu_d1
-pip
